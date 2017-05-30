@@ -6,6 +6,7 @@ This is a _Java_ application which generates an image. It uses [ray tracing](htt
 
 ### Example
 ![](examples/example-1.png)
+
 `example-1.png`: This is an example of an image renderd with this ray tracer
 
 ## Prerequisites
